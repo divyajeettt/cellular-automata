@@ -31,7 +31,7 @@ python3 main.py
 
 ## Future Plans
 
-- Implementation of periodic boundary conditions in place of hard boundary conditions
+- Implementation of periodic boundary (torus) conditions in place of hard boundary (rectangular) conditions
 
 ## References
 
