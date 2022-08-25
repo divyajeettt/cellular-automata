@@ -37,5 +37,5 @@ python3 main.py
 
 - [Cellular Automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
 - [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-- [The Physics of Self-Replication and Nano-Technology (Youtube)](https://www.youtube.com/watch?v=0wAYZcqSS60)
+- [The Physics of Self-Replication and Nano-Technology (YouTube)](https://www.youtube.com/watch?v=0wAYZcqSS60)
 - [Up and Atom (YouTube)](https://www.youtube.com/c/UpandAtom)
