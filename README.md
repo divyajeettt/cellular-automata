@@ -2,7 +2,8 @@
 
 ## About cellular-automata
 
-cellular-automata is a simple, interactive simulation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) built using [`pygame`](https://www.pygame.org/docs/) in Python. It is a graphical-user interface based project. \
+cellular-automata is a simple, interactive simulation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) built using [`pygame`](https://www.pygame.org/docs/) in Python. It is a graphical-user interface based project.
+
 *Date of creation:* `31 May, 2021`
 
 This project is a [zero-player game](https://en.wikipedia.org/wiki/Zero-player_game). The game can be played on a variable-sized (finite) grid. An initial configuration (called <b>seed</b>) of cells is marked *<b>live/active</b>* on the grid. The simulation is started and it is observed how it evolves in the future generations by interactions with the past generations. The Game of Life is a simple model of simple populations.
