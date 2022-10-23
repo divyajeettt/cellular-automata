@@ -6,13 +6,13 @@ cellular-automata is a simple, interactive simulation of [Conway's Game of Life]
 
 *Date of creation:* `31 May, 2021`
 
-This project is a [zero-player game](https://en.wikipedia.org/wiki/Zero-player_game). The game can be played on a variable-sized (finite) grid. An initial configuration (called <b>seed</b>) of cells is marked *<b>live/active</b>* on the grid. The simulation is started and it is observed how it evolves in the future generations by interactions with the past generations. The Game of Life is a simple model of simple populations.
+This project is a [zero-player game](https://en.wikipedia.org/wiki/Zero-player_game). The game can be played on a variable-sized (finite) grid. An initial configuration (called **seed**) of cells is marked ***live/active*** on the grid. The simulation is started and it is observed how it evolves in the future generations by interactions with the past generations. The Game of Life is a simple model of simple populations.
 
-An interesting list of seeds can be found <b>[here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns)</b>.
+An interesting list of seeds can be found **[here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns)**.
 
 ## The Rules
 
-The universe of this game is a finite 2-dimensional grid of cells, each of which is either *<b>alive</b>* or *<b>dead</b>*. In between every generation, every cell interacts with its eight [moore-neighbours](https://en.wikipedia.org/wiki/Moore_neighborhood), and the following transitions occur:
+The universe of this game is a finite 2-dimensional grid of cells, each of which is either ***alive*** or ***dead***. In between every generation, every cell interacts with its eight [moore-neighbours](https://en.wikipedia.org/wiki/Moore_neighborhood), and the following transitions occur:
 - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 - Any live cell with exactly two or three live neighbours surrvives.
 - Any live cell with more than three live neighbours dies, as if by overpopulation.
